@@ -1,6 +1,6 @@
 # Hey, I'm Sumit 👋
 
-🎓 Computer Science Engineering Student  
+🎓 Computer Science Engineering Student @ NIT Rourkela(2023 - 2027)  
 💻 Building software, learning by building, and exploring how things work under the hood.
 
 ---
